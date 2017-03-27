@@ -1,0 +1,6 @@
+framework module Pods_BRConekta_IOS_Example {
+  umbrella header "Pods-BRConekta-IOS_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

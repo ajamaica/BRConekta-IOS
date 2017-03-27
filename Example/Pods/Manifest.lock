@@ -1,0 +1,16 @@
+PODS:
+  - BRConekta-IOS (0.1.0)
+
+DEPENDENCIES:
+  - BRConekta-IOS (from `../`)
+
+EXTERNAL SOURCES:
+  BRConekta-IOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BRConekta-IOS: 729eac245b13a116cca12317fa57bbfed619c58e
+
+PODFILE CHECKSUM: 8840217971c490dcef3565ab767eef3a01e4bc7e
+
+COCOAPODS: 1.1.1

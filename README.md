@@ -22,7 +22,7 @@ pod "BRConekta-IOS"
 
 ## Author
 
-ajamaica, admin@example.com
+ajamaica, jamaica@brounie.com
 
 ## License
 

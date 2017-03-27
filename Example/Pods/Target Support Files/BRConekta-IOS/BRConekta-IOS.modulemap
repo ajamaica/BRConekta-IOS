@@ -1,0 +1,6 @@
+framework module BRConekta_IOS {
+  umbrella header "BRConekta-IOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
