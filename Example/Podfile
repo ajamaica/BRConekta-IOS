@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BRConekta-IOS_Example' do
+  pod 'BRConekta-IOS', :path => '../'
+
+  target 'BRConekta-IOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
